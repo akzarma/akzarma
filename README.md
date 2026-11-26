@@ -23,6 +23,6 @@ My GitHub activity graph recorded **2,298 contributions in the 12 months ending 
 
 - **[Hello Tag](https://akzarma.github.io/projects/hellotag.html)** · A QR tag that lets someone contact a vehicle owner without either person sharing a phone number.
 - **[Claude Code conversation search](https://akzarma.github.io/blog/claude-find-conversation.html)** · A small Python tool to find and resume old sessions. I built it because I kept losing the thread I needed.
-- **On-device AI** · My team made the [top six at an edge AI hackathon at GitHub HQ](https://akzarma.github.io/) with an Android prototype that ran inference without a cloud call.
+- **On-device AI** · I was a [top-six solo finalist at an edge AI hackathon at GitHub HQ](https://akzarma.github.io/). I built an Android prototype that ran inference entirely on-device.
 
 I work mostly in **TypeScript, React, Python, FastAPI, and PostgreSQL**. If you’re building something around developer tools, AI workflows, or creative software, I’d love to hear what you’re working on.
